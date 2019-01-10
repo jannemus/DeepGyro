@@ -1,0 +1,1 @@
+Put weights (DeepGyro.hdf5 / DeepBlind.hdf5) to this folder.

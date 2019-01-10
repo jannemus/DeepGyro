@@ -6,7 +6,7 @@ Gyroscope-Aided Motion Deblurring with Deep Networks [[arXiv](https://arxiv.org/
 
 ## Testing
 
-Download weights for DeepGyro from [Dropbox](https://www.dropbox.com/s/lwbi8r9dsa77btw/DeepGyro.hdf5?dl=0) and put them to the `checkpoints` folder. The weights for DeepBlind are also provided [Dropbox](https://www.dropbox.com/s/xzowi9k6syg8b6i/DeepBlind.hdf5?dl=0).
+Download weights for DeepGyro [(link)](https://www.dropbox.com/s/lwbi8r9dsa77btw/DeepGyro.hdf5?dl=0) and put them to the `checkpoints` folder. The weights for DeepBlind are also provided [(link)](https://www.dropbox.com/s/xzowi9k6syg8b6i/DeepBlind.hdf5?dl=0).
 
 Execute `test_deepgyro.py` or `test_deepblind.py` to deblur images.
 
